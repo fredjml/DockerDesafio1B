@@ -1,3 +1,3 @@
-module github.com/fredjml/fullcycle
+module github.com/fredjml/DockerDesafio1B
 
 go 1.23
