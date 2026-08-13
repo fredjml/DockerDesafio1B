@@ -65,4 +65,4 @@ docker push fredjml/fullcycle:latest
 
 ## Repositório
 
-https://github.com/fredjml/fullcycle
+https://github.com/fredjml/DockerDesafio1B.git
